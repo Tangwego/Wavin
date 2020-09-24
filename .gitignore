@@ -1,0 +1,8 @@
+/build
+/.vs
+/lib
+wavin.exe
+wavin.ilk
+wavin.pdb
+*.o
+*.obj
